@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Data Science Expert
+title: The Data Scientist
 email: mutebe2@gmail.com
 author: Alex Mutebe
 
@@ -40,12 +40,12 @@ author: Alex Mutebe
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "(cleft) 2017-{currentYear} {author}"
+copyright: "(c) 2022-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi, I'm Alex Mutebe, an enthusiastic data scientist with a talent for transforming raw data into useful insights. 
+  Machine learning, data analysis, and visualization are my areas of expertise. I'm committed to finding solutions to complicated issues and assisting organizations in making data-driven decisions, and I have a solid background in programming and data analysis.
+
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
